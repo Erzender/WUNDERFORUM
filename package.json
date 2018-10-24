@@ -1,0 +1,25 @@
+{
+  "name": "wunderforum",
+  "version": "1.0.0",
+  "description": "We gotta have a forum",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erzender/WUNDERFORUM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erzender/WUNDERFORUM/issues"
+  },
+  "homepage": "https://github.com/Erzender/WUNDERFORUM#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sequelize": "^4.39.1",
+    "sqlite3": "^4.0.2"
+  }
+}
