@@ -1,4 +1,4 @@
-node_modulesbl/
+node_modules/
 .vscode/
 .env
 database.sqlite
